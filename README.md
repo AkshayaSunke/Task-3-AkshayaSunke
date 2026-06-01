@@ -12,8 +12,12 @@ The Random Password Generator is a Python-based application developed as part of
 - Input validation for positive password length
 - Simple and beginner-friendly implementation
 
-## Technologies Used
+## Technologies & Tools Used
 - Python 3
+- Visual Studio Code(VS code)
+- GitHub
+  
+## Modules Used
 - Random Module (`random`)
 - String Module (`string`)
 
